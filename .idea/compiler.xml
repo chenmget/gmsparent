@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="gms-config" />
+        <module name="gms-gateway" />
+        <module name="gms-order" />
+        <module name="gms-pro" />
+        <module name="gmsproapi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="demo" target="1.8" />
+      <module name="gms-config" target="1.8" />
+      <module name="gms-gateway" target="1.8" />
+      <module name="gms-order" target="1.8" />
+      <module name="gms-pro" target="1.8" />
+      <module name="gmsdemo" target="1.8" />
+      <module name="gmsparent" target="1.8" />
+      <module name="gmsproapi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="gms-gateway" options="" />
+      <module name="gms-order" options="" />
+      <module name="gms-pro" options="" />
+      <module name="gmsparent" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gms-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gms-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gms-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gms-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gms-order/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gms-pro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gms-pro-api" charset="UTF-8" />
+  </component>
+</project>

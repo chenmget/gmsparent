@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gms-config/gms-config.iml" filepath="$PROJECT_DIR$/gms-config/gms-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gms-gateway/gms-gateway.iml" filepath="$PROJECT_DIR$/gms-gateway/gms-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gms-order/gms-order.iml" filepath="$PROJECT_DIR$/gms-order/gms-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gms-pro/gms-pro.iml" filepath="$PROJECT_DIR$/gms-pro/gms-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmsparent.iml" filepath="$PROJECT_DIR$/gmsparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gms-pro-api/gmsproapi.iml" filepath="$PROJECT_DIR$/gms-pro-api/gmsproapi.iml" />
+    </modules>
+  </component>
+</project>

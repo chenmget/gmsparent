@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+person:
+  name : zhangsan
+  age: 11
+  sex: ${person.age}
